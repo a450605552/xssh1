@@ -1,1 +1,1 @@
-NGROK_TOKEN="2F7nMqFVVUcumVg6q4Dv416wKmU_276ryYfnamQk6UdujbMd5"
+ngrok config add-authtoken 2F7nMqFVVUcumVg6q4Dv416wKmU_276ryYfnamQk6UdujbMd5
